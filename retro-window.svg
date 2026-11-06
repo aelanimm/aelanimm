@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="100%" height="100%">
+  <defs>
+    <style>
+      
+
+      /* Retro pixel badge */
+      .tag-text {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        fill: #1B154A;
+      }
+
+      /* Main Role text */
+      .role-main {
+        font-family: 'Space Mono', 'Courier New', monospace;
+        font-weight: 700;
+        font-size: 26px;
+        letter-spacing: 1px;
+        fill: #1B154A;
+      }
+
+      /* Pop script accent */
+      .role-accent {
+        font-family: 'Plus Jakarta Sans', cursive, sans-serif;
+        font-style: italic;
+        font-weight: 800;
+        font-size: 28px;
+        fill: #F58AB7;
+        stroke: #1B154A;
+        stroke-width: 1.2px;
+        paint-order: stroke fill;
+      }
+
+      .sub-text {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 9px;
+        fill: #CF5A88;
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Shadow Effect -->
+  <rect x="10" y="10" width="740" height="134" rx="16" fill="#1B154A" opacity="0.18" />
+
+  <!-- Window Container -->
+  <rect x="4" y="4" width="740" height="134" rx="16" fill="#FFFDF8" stroke="#1B154A" stroke-width="3.5" />
+
+  <!-- Top Title Bar (Pink Header) -->
+  <path d="M 4 20 Q 4 4 20 4 L 728 4 Q 744 4 744 20 L 744 42 L 4 42 Z" fill="#F58AB7" stroke="#1B154A" stroke-width="3.5" />
+
+  <!-- Title Bar Dividing Line -->
+  <line x1="4" y1="42" x2="744" y2="42" stroke="#1B154A" stroke-width="3.5" />
+
+  <!-- 3 Window Control Dots (Classic Left) -->
+  <circle cx="28" cy="23" r="6" fill="#FF8BA7" stroke="#1B154A" stroke-width="2.5" />
+  <circle cx="48" cy="23" r="6" fill="#FFEA78" stroke="#1B154A" stroke-width="2.5" />
+  <circle cx="68" cy="23" r="6" fill="#99E2D8" stroke="#1B154A" stroke-width="2.5" />
+
+  <!-- Center Decorative Pill on Header -->
+  <rect x="310" y="15" width="128" height="15" rx="7.5" fill="#FFFDF8" stroke="#1B154A" stroke-width="2" />
+  <circle cx="322" cy="22.5" r="3" fill="#1B154A" />
+  <text x="375" y="26" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#1B154A">~/aelanimm</text>
+
+  <!-- Window Body Content -->
+  <!-- Line 1: Main Role Mix -->
+  <g transform="translate(374, 80)">
+    <text text-anchor="middle">
+      <tspan class="role-main">FULL STACK </tspan>
+      <tspan class="role-accent">Developer</tspan>
+      <tspan class="role-main"> & </tspan>
+      <tspan class="role-accent">UI</tspan>
+      <tspan class="role-main"> DESIGNER</tspan>
+    </text>
+  </g>
+
+  <!-- Subtitle Tag Pill (Updated: Just Creative Coder) -->
+  <g transform="translate(374, 116)">
+    <!-- Resized pill box -->
+    <rect x="-115" y="-14" width="230" height="24" rx="12" fill="#FFF4F8" stroke="#1B154A" stroke-width="2" />
+    <text text-anchor="middle" y="2" class="sub-text">✦ CREATIVE CODER ✦</text>
+  </g>
+
+  <!-- Pixel Cursor Arrow in Bottom Corner -->
+  <g transform="translate(685, 105)">
+    <polygon points="0,0 0,16 4,12 8,20 11,18 7,10 13,10" fill="#FFEA78" stroke="#1B154A" stroke-width="2" stroke-linejoin="round" />
+  </g>
+</svg>
