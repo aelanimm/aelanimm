@@ -17,9 +17,11 @@
     </a>
   </p>
 
-  <!-- Retro Browser Window Tagline -->
+<!--Role Banner -->
   <p align="center">
-    <img src="./retro-window.svg" width="760" alt="Full Stack Developer and UI Designer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000000&color=F58AB7&center=true&vCenter=true&width=620&height=32&duration=1&lines=FULL+STACK+DEVELOPER+%26+UI+DESIGNER" alt="Full Stack Developer & UI Designer" />
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000000&color=FFEA78&center=true&vCenter=true&width=300&height=28&duration=1&lines=%E2%9C%A6+CREATIVE+CODING+%E2%9C%A6" alt="Creative Coding" />
   </p>
 
   <!-- Divider -->
