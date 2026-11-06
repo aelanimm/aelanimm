@@ -33,3 +33,10 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelanimm&theme=transparent&ring=F58AB7&fire=F58AB7&currStreakNum=FFF0F5&currStreakLabel=FFB3D1&sideNums=FFF0F5&sideLabels=FFB3D1&dates=F58AB7&background=2A1625&border=F58AB7&hide_border=false" alt="Aela's GitHub Streak" />
   </p>
+
+<!-- Whimsical Pink Activity Breakdown -->
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aelanimm&show_icons=true&include_all_commits=true&count_private=true&title_color=F58AB7&text_color=FFF0F5&icon_color=FFEA78&bg_color=2A1625&border_color=F58AB7&hide_border=false" alt="Aela's Activity Breakdown" />
+  </p>
+
+ 
