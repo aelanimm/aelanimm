@@ -17,9 +17,9 @@
     </a>
   </p>
 
-  <!-- Role Tagline -->
+  <!-- Retro Browser Window Tagline -->
   <p align="center">
-    <b>Frontend Developer &amp; UI / Digital Tinkerer ✨</b>
+    <img src="./retro-window.svg" width="760" alt="Full Stack Developer and UI Designer" />
   </p>
 
   <!-- Divider -->
